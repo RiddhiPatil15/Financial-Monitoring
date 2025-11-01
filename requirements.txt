@@ -1,0 +1,5 @@
+Flask==2.3.2
+firebase-admin==6.0.1
+google-cloud-firestore==2.13.0
+python-dotenv==1.0.0
+gunicorn==20.1.0   # optional for deployment
